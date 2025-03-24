@@ -1,7 +1,8 @@
 package animal;
+
 public class Person {
 
-    public String name; // private = restricted access
+    private String name; // private = restricted access
 
     // Getter
     public String getName() {
@@ -12,4 +13,7 @@ public class Person {
     public void setName(String newName) {
         this.name = newName;
     }
+    
 }
+
+
