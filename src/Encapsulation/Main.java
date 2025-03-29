@@ -1,4 +1,4 @@
-package Enclecapsulation;
+package Encapsulation;
 
 public class Main {
 
