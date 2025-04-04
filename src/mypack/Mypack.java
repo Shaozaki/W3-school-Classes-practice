@@ -1,10 +1,8 @@
 package mypack;
 
-import java.util.*;
-
 public class Mypack {
 
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("A5&O%asdfgadg");
     }
 }
