@@ -1,4 +1,4 @@
-package Encapsulation;
+package encapsulation;
 
 public class Person {
 
@@ -8,12 +8,9 @@ public class Person {
     public String getName() {
         return name; // get harus mengemblikan variable name
     }
-    
+
     // Setter
     public void setName(String newName) {
-        this.name = newName; // set harus 
+        this.name = newName; // set harus
     }
-    
 }
-
-
